@@ -1,5 +1,5 @@
 
-# Picoctf - babyshark two two two writeup
+# Picoctf - wireshark twooo twoo two writeup
 
 My first approach is to look at the arp protocol just to get an idea to what kind of  IPs are in the network:
  this was the result:
