@@ -4,14 +4,14 @@
 My first approach is to look at the arp protocol just to get an idea to what kind of  IPs are in the network:
  this was the result:
  
-![arap.png](https://github.com/abhinav525/Security-and-Networking/blob/main/arap.png)
+![arap.png](https://github.com/abhinav525/Security-and-Networking/blob/main/ip.png)
 
 the IP was: `192.168.38.104`
 
 So when I searched for this IP particularly I got:
 we got to know that this ip had only single packet sent soo this must be suspicious as it was a public IP directly being talked to:
 
-![ip.png](https://github.com/abhinav525/Security-and-Networking/blob/main/ip.png)
+![ip.png](https://github.com/abhinav525/Security-and-Networking/blob/main/arap.png)
 
 the ip was: `18.217.1.57`
 now we had some lead.....
