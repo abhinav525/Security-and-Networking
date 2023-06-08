@@ -33,3 +33,6 @@ cGljb0NURntkbnNfM3hmMWxfZnR3X2RlYWRiZWVmfQ==
 
 decoded:
 `picoCTF{dns_3xf1l_ftw_deadbeef}`
+
+Result 
+![Screenshot%202023-06-08%20145926.jpg](https://github.com/abhinav525/Security-and-Networking/blob/main/Screenshot%202023-06-08%20145926.jpg)
